@@ -6,7 +6,7 @@ public class AGE
         int age=18;
         if(age<18)
         {
-            System.out.println("migor");
+            System.out.println("major");
         }
         else
         {
