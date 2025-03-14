@@ -7,6 +7,7 @@ public class ar
         System.out.println("at index 1:"+name[1]);
         System.out.println("at index 2:"+name[2]);
         System.out.println("at index 3:"+name[3]);
+        System.out.println(name.length);
     }
 
 }
